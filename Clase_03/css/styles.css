@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+}
+
+p {
+    color:rgb(236, 177, 177);
+    background-color: rgb(167, 219, 167);
+    padding: 30px;
+    border: 10px solid red;
+    margin: auto 5px;
+    text-align: center;
+}
