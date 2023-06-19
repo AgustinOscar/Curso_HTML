@@ -1,0 +1,26 @@
+h1 {
+    color:rgb(64, 226, 43);
+}
+
+/*Para los link antes y después de ser visitados*/
+a:link, a:visited {
+    color: white;
+    text-decoration: none; /*Elimina el subrayadp*/
+    background-color: blueviolet;
+    padding: 15px 25px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+}
+
+/*Cuando nos colocamos encima y también cuando damos clic en el link*/
+a:hover, a:active  {
+    color: gold;
+    background-color: chartreuse;
+}
+
+
+img {
+    width: 100px;
+}
+
